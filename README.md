@@ -4,6 +4,7 @@ And, set it to Node.js 20/22 as of 2 Feb 2026.
 
 Put the provided package.json and .env on the server.
 And edit the .env:
+
 => N8N_PORT to what port is allocated.
 
 => Change N8N_ENCRYPTION_KEY to a Key.
